@@ -1,2 +1,0 @@
-# Telebot
-python programming
